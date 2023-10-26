@@ -1,0 +1,1 @@
+This is a demo.It is to explain the FileWriter Class.Use the FileWriter classes.Finally store the data in the file.
